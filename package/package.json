@@ -1,0 +1,11 @@
+{
+  "name": "my-folder-structure",
+  "version": "1.0.0",
+  "description": "A package that creates a folder structure upon installation",
+  "main": "create-default-folder.js",
+  "scripts": {
+    "postinstall": "node create-default-folder.js"
+  },
+  "author": "Ali El-Mallah",
+  "license": "MIT"
+}
