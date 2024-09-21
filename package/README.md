@@ -23,7 +23,7 @@ npm install node-construction
 ```
 
 ## The Structure Created
-```.
+```
 ├── config
 │   └── .env
 ├── db
@@ -41,8 +41,8 @@ npm install node-construction
 │   ├── utils
 │   └── index.router.js
 ├── index.js
-└── .gitignore```
-
+└── .gitignore
+```
 
 ## Contributing
 
