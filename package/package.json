@@ -1,7 +1,7 @@
 {
-  "name": "my-folder-structure",
-  "version": "1.0.0",
-  "description": "A package that creates a folder structure upon installation",
+  "name": "mfs",
+  "version": "1.0.1",
+  "description": "my folder structure (mfs) for short is a package that creates a folder structure upon installation",
   "main": "create-default-folder.js",
   "scripts": {
     "postinstall": "node create-default-folder.js"
