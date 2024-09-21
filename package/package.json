@@ -1,6 +1,6 @@
 {
   "name": "node-construction",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "Node Construction: The ultimate tool to instantly scaffold your Node.js projects upon installation",
   "main": "create-default-folder.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/AliAmr527/my-folder-structure.git"
   },
   "bugs": {
-    "url":"https://github.com/AliAmr527/my-folder-structure/issues"
+    "url": "https://github.com/AliAmr527/my-folder-structure/issues"
   },
   "homepage": "https://github.com/AliAmr527/my-folder-structure",
   "author": "Ali El-Mallah",
