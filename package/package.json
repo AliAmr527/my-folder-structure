@@ -1,11 +1,19 @@
 {
-  "name": "mfs",
+  "name": "node-construction",
   "version": "1.0.1",
-  "description": "my folder structure (mfs) for short is a package that creates a folder structure upon installation",
+  "description": "Node Construction: The ultimate tool to instantly scaffold your Node.js projects upon installation",
   "main": "create-default-folder.js",
   "scripts": {
     "postinstall": "node create-default-folder.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliAmr527/my-folder-structure.git"
+  },
+  "bugs": {
+    "url":"https://github.com/AliAmr527/my-folder-structure/issues"
+  },
+  "homepage": "https://github.com/AliAmr527/my-folder-structure/tree/main/package#readme",
   "author": "Ali El-Mallah",
   "license": "MIT"
 }

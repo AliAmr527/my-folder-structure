@@ -1,10 +1,10 @@
-﻿# My Folder Structure (mfs)
+﻿# Node Construction
 
 ✨ **Easily set up your Node.js project with a predefined folder and file structure!** ✨
 
 ## Overview
 
-Are you tired of manually creating the same folder and file structure for every Node.js project? Say goodbye to repetitive tasks and let the **My Folder Structure** do the heavy lifting for you! This package automatically generates a robust project skeleton, saving you time and letting you focus on what really matters: building your application.
+Are you tired of manually creating the same folder and file structure for every Node.js project? Say goodbye to repetitive tasks and let **Node Construction** do the heavy lifting for you! This package automatically generates a robust project skeleton, saving you time and letting you focus on what really matters: building your application.
 
 ## Features
 
@@ -19,11 +19,11 @@ Are you tired of manually creating the same folder and file structure for every 
 To get started, simply install the package via npm and let the magic happen:
 
 ```bash
-npm install mfs
+npm install node-construction
 ```
 
 ## The Structure Created
-.
+```.
 ├── config
 │   └── .env
 ├── db
@@ -41,7 +41,7 @@ npm install mfs
 │   ├── utils
 │   └── index.router.js
 ├── index.js
-└── .gitignore
+└── .gitignore```
 
 
 ## Contributing
